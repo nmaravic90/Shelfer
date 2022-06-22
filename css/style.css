@@ -1,0 +1,364 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.nav-item a{
+	font-variant: small-caps !important;
+
+}
+
+.img-responsive {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+
+#text-home{
+	text-align: left !important;
+}
+
+.hr-light{
+	margin-left: 0px !important;
+	text-align: left !important;
+	background-color: #1f68c7 !important;
+	width: 300px !important;
+}
+
+.navbar-nav{
+	text-align: center !important;
+
+}
+
+#navbarNav{
+	/*float: right !important;*/
+	text-align: center !important;
+
+}
+
+
+#whyShelfer{
+	background-color: #051833;
+	color: #ffffff;
+	padding-top: 40px;
+}
+
+#whyShelfer p{
+	color: #ffffff !important;
+}
+
+
+.modal-body p{
+	text-align: center !important;
+
+}
+
+.modal-header button{
+	width: 20px;
+	height: 20px;
+}
+
+
+
+.mask{
+	padding-top: 50px !important;
+	padding-bottom: 50px !important;
+}
+
+
+
+.footer{
+	background-color: #051833;
+}
+
+#navcontainer{
+	text-align: center !important;
+}
+
+#navcontainer ul{
+	padding-top: 35px;
+	padding-bottom: 15px;
+}
+
+#navcontainer ul li { 
+	display: inline !important;
+}
+
+#navcontainer ul li a{ 
+	color: #ffffff;
+	margin: 5px;
+}
+
+#navcontainer ul li a:hover{ 
+	color:  #1f68c7;
+	
+}
+
+
+#social{
+	text-align: center !important;
+}
+
+#social a{
+	color: #ffffff;
+	margin: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+#social a:hover{ 
+	color:  #1f68c7;
+	
+}
+
+#copyright{
+	padding-top: 35px;
+	padding-bottom: 15px;
+	text-align: center !important;
+	color: #919396;
+}
+
+#copyright p{
+	font-size: 14px;
+}
+
+
+#login a{
+	background-color: #1f68c7;
+	border-radius: 20px;
+	margin-right: 15px;
+	margin-left: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+
+.software-lp .navbar {
+	background-color: #051833 !important;
+}
+
+.light-blue-skin .top-nav-collapse {
+	background-color: #051833 !important;
+}
+
+.light-blue-skin .navbar {
+	background-color: #051833 !important;
+}
+
+
+.text-title{
+	color: #1f68c7 !important;
+}
+
+
+#features i{
+	color: #1f68c7 !important;
+}
+
+
+.light-blue-skin .md-pills.pills-primary .nav-item .nav-link.active {
+	background-color: #1f68c7 !important;
+}
+
+.md-pills.pills-primary .nav-item .nav-link.active {
+	background-color: #4285F4;
+}
+
+
+@media (max-width: 768px){
+	.software-lp.intro-page .navbar:not(.top-nav-collapse) {
+		background: #051833 !important;
+	}
+}
+
+.btn-pink {
+	background: #1f68c7 !important;
+}
+
+
+.md-form i{
+	color: #1f68c7 !important;
+}
+
+#subscribe{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#subscribe i{
+	color: #1f68c7 !important;
+	padding-bottom: 10px;
+}                        
+
+
+
+
+.h2-responsive{
+	font-size: 130% !important;
+}
+
+
+
+
+#getApp p{
+	font-style: normal !important;
+}
+
+#getApp i{
+	padding-left: 5px;
+}
+
+
+
+.img-store{
+	display: inline-block !important;
+	vertical-align: top;
+
+}
+
+.img-store img{
+	width: 225px;
+	height: 70px;
+	margin-bottom: 10px;
+}
+
+
+
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
+
+
+
+#img-aboutus{
+	padding-left: 50px;
+}
+
+
+#modal11  {
+	padding-top: 300px;
+	padding-right: 0px;
+	
+	background-color: rgba(4, 4, 4, 0.2); 
+
+
+
+	
+	position: absolute;
+}
+.modal-content {
+	border-radius: 0px;
+	border: none;
+	top: 40%;
+	border-radius: 90px;
+	
+}
+.modal-body {
+	border-radius: 20px;
+	text-align: center;
+	background-color: #051833;
+	color: white;
+}
+
+
+#button1 {
+	background-color: #051833;
+	color: white;
+}
+
+#mail-index{
+	border-bottom: none !important;
+}
+
+#button1:hover{
+	background-color: #051833 !important;
+	color: white;
+}
+
+#button1:focus{
+	background-color: #051833 !important;
+	color: white;
+}
+
+
+
+
+
+#img-close a img{
+	width: 80px;
+	height: 50px;
+}
+
+#privacy{
+	
+}
+
+.terms-font p{
+ text-align: left !important;
+}
+
+.terms-font p strong{
+	 text-align: center !important;
+}
+
+.exit-btn{
+	 position: fixed;
+    top: 5%;
+    right: 3%;	
+    z-index: 1000;
+
+}
+
+  @media (max-width: 768px) {
+
+  	.grey-text{
+  		font-size: 140%;
+  	}
+  	.section-description{
+  		font-size: 140%;
+  	}
+
+  	#policy .col-md-12{
+  		width: 80%;
+  	}
+
+  	.body-title{
+  		font-size: 160%;
+  	}
+  	.body-p{
+  		font-size: 70%;
+  	}
+  	}
+  	#img-close{
+  		width: 40px;
+	height: 30px;
+  	}
+  	.exit-btn{
+	 position: fixed;
+    top: 3%;
+    right: 3%;
+
+}
+    .exit #img-close {
+    	
+    	position: absolute;
+    	padding-top: 6%;
+    padding-right: 6%;
+   
+     } 
+}
+
+.term-padding{
+	padding-top: 10% !important;
+}
+
+
+#text-body{
+	margin-left: auto;
+	margin-right: auto;
+	
+}
